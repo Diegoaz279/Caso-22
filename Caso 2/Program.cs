@@ -15,7 +15,7 @@ public class Tarea
         this.fechaLimite = fechaLimite;
     }
 
-    //Metodos para obtener y establecer el titulo
+    //Metodos para obtener y establecer el tituloo
     public void SetTitulo(string titulo)
     {
         this.titulo = titulo;
